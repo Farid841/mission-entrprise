@@ -27,9 +27,13 @@ Les coûts étaient estimés pour chaque cycle, et ajustés selon la complexité
 </ul>
 <p><strong>3. Conduite du projet</strong></p>
 <p><em>Pilotage du projet</em><br>
-La roadmap était continuellement révisée, appuyée par un suivi de la progression via des indicateurs précis (les tickers) et des tests par TDD, garantissant ainsi que les livrables répondaient aux critères qualité.</p>
+La roadmap était continuellement révisée, appuyée par un suivi de la progression via des indicateurs précis (les tickets) et des tests par TDD, garantissant ainsi que les livrables répondaient aux critères qualité.</p>
 <p><em>Réunions</em><br>
-Des réunions bi-hebdomadaires permettaient de présenter les avancées et d’échanger sur les obstacles rencontrés, avec des rétrospectives pour optimiser la méthodologie de travail.</p>
+Des réunions bi-hebdomadaires permettaient de présenter les avancées et d’échanger sur les obstacles rencontrés, avec des rétrospectives pour optimiser la méthodologie de travail.<br>
+(sprint)</p>
+<ul>
+<li>supprot des</li>
+</ul>
 <p><em>Documents produits</em><br>
 La documentation inclut des guides utilisateurs (Sphinx), des comptes rendus de réunion, et des spécifications techniques détaillées, assurant une compréhension commune et complète des fonctionnalités du projet.</p>
 <p><em>Validations et vérifications</em><br>
@@ -42,7 +46,8 @@ Le projet visait à offrir une plateforme interopérable pour l’analyse de don
 <p><em>Écarts et explications</em><br>
 Des écarts liés aux intégrations de bases de données ont été anticipés et gérés grâce à la flexibilité de la méthode agile.</p>
 <p><em>Leçons tirées</em><br>
-L’implication des chercheurs dès la conception serait bénéfique pour de futurs projets. La méthodologie Scrum a prouvé son efficacité en permettant des itérations rapides et pertinentes dès les premières phases.</p>
+L’implication des chercheurs dès la conception serait bénéfique pour de futurs projets. La méthodologie Scrum a prouvé son efficacité en permettant des itérations rapides et pertinentes dès les premières phases.<br>
+(developper)</p>
 <p><em>Stratégie générale de l’IJCLab</em><br>
 L’approche de l’IJCLab en matière d’innovation et de collaboration a favorisé une atmosphère propice à l’adaptabilité, contribuant au succès du projet et à l’intégration des meilleures pratiques.</p>
 <p><strong>5. Dimension économique</strong></p>
