@@ -48,4 +48,5 @@ L’approche de l’IJCLab en matière d’innovation et de collaboration a favo
 <p><strong>5. Dimension économique</strong></p>
 <p><em>Indicateurs de rentabilité et gestion des coûts</em><br>
 Des indicateurs de rentabilité, comme le temps économisé dans l’analyse de données et la réduction des coûts opérationnels via l’automatisation, étaient suivis pour garantir l’efficacité du projet.</p>
+<p>Au CNRS, l’éthique et la confidentialité des données et informations sont des valeurs fondamentales, encadrant strictement l’accès aux données sensibles et limitant la diffusion des chiffres afin de garantir un respect rigoureux des exigences de sécurité et de confidentialité.</p>
 
