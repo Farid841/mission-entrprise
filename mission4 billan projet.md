@@ -46,7 +46,7 @@
 <hr>
 <h3 id="déroulement-du-projet"><strong>2. Déroulement du projet</strong></h3>
 <h4 id="description-en-termes-de-planning"><em>Description en termes de planning</em></h4>
-<p>Le projet a été structuré selon une méthodologie Agile pour garantir une progression flexible et centrée sur les besoins des utilisateurs finaux et des développeurs.</p>
+<p>Le projet a été structuré selon une méthodologie Agile pour garantir une progression flexible et centrée sur les besoins des utilisateurs finaux et des développeurs. Chaque étape a été planifiée pour garantir un développement fluide et des livraisons régulières.</p>
 <hr>
 <h4 id="structuration-des-étapes-du-projet"><em>Structuration des Étapes du Projet</em></h4>
 
@@ -81,15 +81,45 @@
 </tr>
 </tbody>
 </table><hr>
-<p><strong>Estimation des charges et des coûts</strong></p>
-<p>Dans le contexte de l’IJCLab, une organisation publique, les considérations financières traditionnelles telles que des tests de coûts précis ne sont pas une priorité majeure. Cependant, le projet sur lequel je travaille vise avant tout à générer des <strong>gains de temps significatifs</strong> pour les chercheurs en optimisant leurs travails et en leur fournissant des outils mieux adaptés.</p>
+<p><strong>Estimation des charges et des coûts</strong><br>
+Dans le contexte de l’IJCLab, un organisme public, les considérations financières ne sont pas orientées vers des objectifs de chiffre d’affaires ou de bénéfices. Toutefois, pour assurer le bon fonctionnement des projets, comme le financement des infrastructures, l’électricité, ou le personnel, une gestion rigoureuse est mise en œuvre.</p>
+<p><strong>Points saillants financiers :</strong></p>
+<ul>
+<li>
+<p><strong>Budget annuel IJCLab (2023)</strong> :</p>
+<ul>
+<li><strong>Total :</strong> 25,5 M€, répartis en :
+<ul>
+<li>3,5 M€ pour le fonctionnement général.</li>
+<li>3 M€ pour des projets spécifiques.</li>
+<li>15 M€ via des contrats (ANR, Europe, industrie, etc.).</li>
+<li>2,5 M€ provenant des frais généraux et des services externes.</li>
+</ul>
+</li>
+<li><strong>Salaires permanents :</strong> 40,5 M€ couverts par le CNRS et les universités.</li>
+</ul>
+</li>
+<li>
+<p><strong>Investissements spécifiques :</strong></p>
+<ul>
+<li>Financements CPER  pour l’amélioration des infrastructures et équipements scientifiques.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Budget spécifique au projet HGTD :</strong><br>
+Le coût total estimé s’élève à 35,5 millions de francs suisses, couvrant la conception, la construction, les tests et l’installation du détecteur. Ce budget est financé par des contributions des pays membres de la collaboration ATLAS et des subventions internationales.</p>
+<p>Les infrastructures nécessaires, comme les systèmes de stockage pour gérer les données générées, représentent également un investissement clé pour assurer la pérennité et l’accessibilité des informations critiques.</p>
+<p>Ces informations soulignent l’engagement de l’IJCLab à maintenir et à développer ses infrastructures et ses projets grâce à une gestion budgétaire rigoureuse et à des financements diversifiés.<br>
+Cependant, le projet sur lequel je travaille vise avant tout à générer des <strong>gains de temps significatifs</strong> pour les chercheurs en optimisant leurs travails et en leur fournissant des outils mieux adaptés.</p>
+<p>Budget du projet HGTD :</p>
+<p>Le coût total estimé du projet HGTD est de 35,5 millions de francs suisses. Ce budget couvre la conception, la construction, les tests et l’installation du détecteur. Le financement provient de diverses sources, notamment des contributions des pays membres de la collaboration ATLAS et de subventions de programmes de recherche internationaux.</p>
 <p>Les coûts peuvent également être envisagés sous un autre angle, notamment en termes d’infrastructures nécessaires :</p>
 <ul>
 <li><strong>Stockage des données</strong> :<br>
 La gestion et l’archivage des données générées au sein de l’expérience ATLAS nécessitent des capacités de stockage importantes. Ces infrastructures, telles que les serveurs et les disques durs, représentent un investissement que l’IJCLab-Atlas doit financer pour assurer la pérennité et l’accès aux informations.</li>
 </ul>
-<p>Pour des raisons de <strong>confidentialité</strong>, les détails précis concernant ces coûts ne peuvent pas être communiqués. Toutefois, il est essentiel de noter que ces investissements sont réalisés dans le cadre d’une gestion permettant à l’institut de répondre aux exigences scientifiques tout en optimisant les moyens disponibles.</p>
-<p><em>Description en termes de ressources</em></p>
+<p><em>Description en termes de ressources</em><br>
+ici je veucx qque tu dises comme on est dans la recherche et que nous somme assez souverin nous ne depandon pas des cloud provider et que nous avons cette technique de gerer nos propre ressouces . tu peux rajouter aussi que j’ai co-encadree un stagaire</p>
 <ul>
 <li><strong>Acteurs impliqués</strong> : L’équipe se composait de développeurs et de chercheurs, incluant un stagiaire.</li>
 <li><strong>Méthodes et outils</strong> : Gestion agile avec Scrum, intégration continue via GitLab CI/CD, et <s>outils de tests de sécurité pour protéger les données sensibles.</s></li>
@@ -143,7 +173,7 @@ La gestion et l’archivage des données générées au sein de l’expérience 
 <li>Un workflow se compose de plusieurs <strong>étapes</strong>.</li>
 <li>Chaque étape contient des <strong>champs</strong> que l’utilisateur doit remplir.</li>
 </ul>
-<p>Par exemple, imaginons un workflow nommé **<strong>Inspection et Validation</strong> ** :</p>
+<p>Par exemple, imaginons un workflow nommé <strong>Inspection et Validation</strong> :</p>
 <p><strong>(affichage en liste)</strong></p>
 <ul>
 <li>Étape 1 : <strong>Inspection</strong>
@@ -240,12 +270,28 @@ Le deployment de la premiere phase l’application est prevus pour  en est prevu
 <li><strong>Opérationnellement</strong>, il a renforcé la collaboration inter-équipes et standardisé les processus.</li>
 <li><strong>Durablement</strong>, il offre une base évolutive qui pourra être utilisée pour d’autres projets similaires à l’avenir.</li>
 </ul>
+<h4 id="les-retombées-scientifiques-et-technologiques-du-projet-atlas"><strong>Les retombées scientifiques et technologiques du projet ATLAS</strong></h4>
+<p>Le projet ATLAS ne se limite pas à l’exploration fondamentale. Ses contributions ont des impacts concrets dans divers domaines :</p>
+<ol>
+<li><strong>Avancées scientifiques</strong> : Détection du boson de Higgs et recherche sur des phénomènes comme la matière noire ou l’énergie sombre, redéfinissant notre compréhension de l’univers.</li>
+<li><strong>Applications médicales</strong> : Innovations pour la radiothérapie (protonthérapie, médecine nucléaire) et l’imagerie médicale (scanners PET, IRM).</li>
+<li><strong>Technologies modernes</strong> : Traitement de données massives influençant le Big Data et l’intelligence artificielle, développement d’accélérateurs compacts et synchronisation ultra-précise.</li>
+<li><strong>Impact éducatif et sociétal</strong> : Formation d’experts, vulgarisation scientifique, et inspiration pour les nouvelles générations.</li>
+<li><strong>Transfert industriel</strong> : Innovations intégrées dans des domaines comme l’aérospatial, l’énergie et les télécommunications.</li>
+</ol>
 <h4 id="leçons-tirées-pour-les-projets-futurs"><strong>Leçons tirées pour les projets futurs</strong></h4>
 <ol>
 <li><strong>Prise en compte des besoins utilisateurs dès le début</strong> : Organiser des ateliers réguliers pour anticiper les évolutions potentielles.</li>
 <li><strong>Flexibilité intégrée au planning</strong> : Prévoir des marges dans le planning et le budget pour absorber les imprévus.</li>
 <li><strong>Suivi économique précis</strong> : Continuer à surveiller des indicateurs clés comme le temps économisé et les coûts opérationnels pour justifier les décisions stratégiques.</li>
 </ol>
+<p>Ces réalisations n’auraient pas été possibles sans la collaboration étroite entre des équipes pluridisciplinaires :</p>
+<ul>
+<li><strong>Physiciens</strong>, pour définir les objectifs scientifiques,</li>
+<li><strong>Ingénieurs</strong>, pour développer des technologies de pointe,</li>
+<li><strong>Administrateurs</strong>, pour coordonner les ressources et les plannings,</li>
+<li>et bien d’autres experts, travaillant ensemble pour transformer une vision ambitieuse en réalité.</li>
+</ul>
 <h2 id="conclusion">conclusion:</h2>
 <p>Le projet ne se limite pas à la gestion actuelle des composants ATLAS. Grâce à sa conception générique et modulaire, l’application est prête à être utilisée pour d’autres expériences similaires, renforçant ainsi l’efficacité des équipes et la pérennité des données.</p>
 <hr>
